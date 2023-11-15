@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+  <img alt="GIF" align="center" src=https://github.com/busracagliyan/busracagliyan/blob/main/hithere.gif>
+</div>
 
 <!--
 **busracagliyan/busracagliyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
