@@ -9,7 +9,7 @@ I'm Büşra ÇAĞLIYAN 🌱 (will be updated)
     <img alt="LinkedIn" width="36px" src="img/linkedin.svg"/>
   </a>
   <a href="https://busracagliyan.github.io/" target="_blank" rel="noopener noreferrer">
-    <img  alt="LinkedIn" width="36px" src="img/website.svg"/>
+    <img  alt="Website" width="36px" src="img/internet.svg"/>
   </a>
 </div>
 
