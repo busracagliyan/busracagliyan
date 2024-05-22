@@ -6,7 +6,7 @@ I'm Büşra ÇAĞLIYAN 🌱 (will be updated)
 
 <div align="left">
   <a href="https://www.linkedin.com/in/busracagliyan/" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn" width="36px" src="img/linkedin.svg"/>
+    <img alt="LinkedIn" width="36px" src="img/linkedin2.svg"/>
   </a>
   <a href="https://busracagliyan.github.io/" target="_blank" rel="noopener noreferrer">
     <img  alt="Website" width="36px" src="img/internet.svg"/>
