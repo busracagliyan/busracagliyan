@@ -10,7 +10,11 @@ I'm Büşra ÇAĞLIYAN 🌱 (will be updated)
   </a>
    &nbsp;&nbsp; 
   <a href="https://busracagliyan.github.io/" target="_blank" rel="noopener noreferrer">
-    <img  alt="Website" width="24px" src="img/internet.svg"/>
+    <img  alt="Website" width="24px" src="img/internet.svg" style="margin-right: 10;"/>
+  </a>
+ &nbsp;&nbsp; 
+  <a href="mailto:bsrcagliyann@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img  alt="Website" width="24px" src="img/gmail.svg" style="margin-right: 10;"/>
   </a>
 </div>
 
