@@ -6,15 +6,15 @@ I'm Büşra ÇAĞLIYAN 🌱 (will be updated)
 
 <div align="left">
   <a href="https://www.linkedin.com/in/busracagliyan/" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn" width="24px" src="img/linkedin.svg" style="margin-right: 10;"/>
+    <img alt="LinkedIn" width="24px" src="img/linkedin.png" style="margin-right: 10;"/>
   </a>
    &nbsp;&nbsp; 
   <a href="https://busracagliyan.github.io/" target="_blank" rel="noopener noreferrer">
-    <img  alt="Website" width="24px" src="img/internet.svg" style="margin-right: 10;"/>
+    <img  alt="Website" width="24px" src="img/website.png" style="margin-right: 10;"/>
   </a>
  &nbsp;&nbsp; 
   <a href="mailto:bsrcagliyann@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img  alt="Website" width="24px" src="img/gmail.svg" style="margin-right: 10;"/>
+    <img  alt="Website" width="24px" src="img/gmail.png" style="margin-right: 10;"/>
   </a>
 </div>
 
