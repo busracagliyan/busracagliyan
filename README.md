@@ -6,10 +6,11 @@ I'm Büşra ÇAĞLIYAN 🌱 (will be updated)
 
 <div align="left">
   <a href="https://www.linkedin.com/in/busracagliyan/" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn" width="36px" src="img/linkedin2.svg"/>
+    <img alt="LinkedIn" width="24px" src="img/linkedin2.svg" style="margin-right: 10;"/>
   </a>
+   &nbsp;&nbsp; 
   <a href="https://busracagliyan.github.io/" target="_blank" rel="noopener noreferrer">
-    <img  alt="Website" width="36px" src="img/internet.svg"/>
+    <img  alt="Website" width="24px" src="img/internet.svg"/>
   </a>
 </div>
 
