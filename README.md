@@ -4,7 +4,7 @@ I'm Büşra ÇAĞLIYAN 🌱 (will be updated)
 
  ### Find me on:
  
-[![Website](img/website.png)](https://busracagliyan.github.io/)
+[![Website](img/website2.png)](https://busracagliyan.github.io/)
 [![LinkedIn](img/linkedin.png)](https://www.linkedin.com/in/busracagliyan/)
 [![Gmail](img/gmail.png)](mailto:bsrcagliyann@gmail.com)
 
