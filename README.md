@@ -1,16 +1,21 @@
-<div align="center">
-  <img alt="GIF" align="center" src=https://github.com/busracagliyan/busracagliyan/blob/main/hithere.gif>
+## Hi there 👋
 
-<br></br>
+I'm Büşra ÇAĞLIYAN 🌱 (will be updated)
 
-<h3 align="left">Connect Me:</h3>
- 
-<a href="https://www.linkedin.com/in/busracagliyan/" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="LinkedIn" width="36px" src="img/linkedin.svg"/>
-</a>
+ ### Find me on:
 
-<a href="https://busracagliyan.github.io/" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="LinkedIn" width="36px" src="img/website.svg"/>
-</a>
+<div align="left">
+  <a href="https://www.linkedin.com/in/busracagliyan/" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" width="36px" src="img/linkedin.svg"/>
+  </a>
+  <a href="https://busracagliyan.github.io/" target="_blank" rel="noopener noreferrer">
+    <img  alt="LinkedIn" width="36px" src="img/website.svg"/>
+  </a>
+</div>
 
-
+<div align="left">
+  <h4>Visitor Counts</h4>
+    <a href="https://profile-counter.glitch.me/">
+        <img src="https://profile-counter.glitch.me/{busracagliyan}/count.svg" alt="Visitor Count" />
+    </a>
+</div>
