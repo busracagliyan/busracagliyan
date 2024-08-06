@@ -1,12 +1,19 @@
 ## Hi there 👋
 
-I'm Büşra ÇAĞLIYAN 🌱 (will be updated)
+I am a software developer
 
- ### Find me on:
+## Find me on:
  
-[![Website](img/website2.png)](https://busracagliyan.github.io/)
-[![LinkedIn](img/linkedin.png)](https://www.linkedin.com/in/busracagliyan/)
-[![Gmail](img/gmail.png)](mailto:bsrcagliyann@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/busracagliyan/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:bsrcagliyann@gmail.com)
+
+## Technology Stack
+
+[![My Skills](https://skillicons.dev/icons?i=py,gtk,linux,git,vscode)](https://skillicons.dev)
+
+#### If you want to read my blog posts, you can visit the link below:
+
+[![Website](img/website.png)](https://busracagliyan.github.io/)
 
 <div align="left">
   <h4>Visitor Counts</h4>
@@ -14,3 +21,4 @@ I'm Büşra ÇAĞLIYAN 🌱 (will be updated)
         <img src="https://profile-counter.glitch.me/{busracagliyan}/count.svg" alt="Visitor Count" />
     </a>
 </div>
+
