@@ -2,6 +2,9 @@
 
 I am a software developer
 
+<details>
+  <summary><b>See more</b></summary>  
+
 ## Find me on:
  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/busracagliyan/)
