@@ -8,7 +8,6 @@ I am a software developer
 ## Find me on:
  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/busracagliyan/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:bsrcagliyann@gmail.com)
 
 ## Technology Stack
 
