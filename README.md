@@ -16,11 +16,3 @@ I am a software developer
 #### If you want to read my blog posts, you can visit the link below:
 
 [![Website](img/website.png)](https://busracagliyan.github.io/)
-
-<div align="left">
-  <h4>Visitor Counts</h4>
-    <a href="https://profile-counter.glitch.me/">
-        <img src="https://profile-counter.glitch.me/{busracagliyan}/count.svg" alt="Visitor Count" />
-    </a>
-</div>
-
